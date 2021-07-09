@@ -800,11 +800,6 @@ Table of Contents
               Committees", RFC 3777, DOI 10.17487/RFC3777, June 2004,
               <https://datatracker.ietf.org/doc/html/rfc3777>.
 
-   [RFC4844]  Daigle, L., Ed. and Internet Architecture Board, "The RFC
-              Series and RFC Editor", RFC 4844, DOI 10.17487/RFC4844,
-              July 2007,
-              <https://datatracker.ietf.org/doc/html/rfc4844>.
-
    [RFC5378]  Bradner, S., Ed. and J. Contreras, Ed., "Rights
               Contributors Provide to the IETF Trust", BCP 78, RFC 5378,
               DOI 10.17487/RFC5378, November 2008,
