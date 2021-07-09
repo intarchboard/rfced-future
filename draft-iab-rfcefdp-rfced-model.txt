@@ -10,7 +10,7 @@ Expires: 10 January 2022
 
 
                       RFC Editor Model (Version 3)
-                  draft-iab-rfcefdp-rfced-model-latest
+                    draft-iab-rfcefdp-rfced-model-00
 
 Abstract
 
@@ -795,10 +795,7 @@ Table of Contents
               September 1998,
               <https://datatracker.ietf.org/doc/html/rfc2418>.
 
-   [RFC3777]  Galvin, J., Ed., "IAB and IESG Selection, Confirmation,
-              and Recall Process: Operation of the Nominating and Recall
-              Committees", RFC 3777, DOI 10.17487/RFC3777, June 2004,
-              <https://datatracker.ietf.org/doc/html/rfc3777>.
+   [RFC3777]  "*** BROKEN REFERENCE ***".
 
    [RFC5378]  Bradner, S., Ed. and J. Contreras, Ed., "Rights
               Contributors Provide to the IETF Trust", BCP 78, RFC 5378,
