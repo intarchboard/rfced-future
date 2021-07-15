@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2021-07-11T00:13:52.167666+00:00",
+  "timestamp": "2021-07-15T00:13:13.890950+00:00",
   "repo": "intarchboard/program-rfced-future",
   "labels": [
     {
@@ -265,14 +265,16 @@
       "state": "OPEN",
       "author": "elear",
       "authorAssociation": "COLLABORATOR",
-      "assignees": [],
+      "assignees": [
+        "stpeter"
+      ],
       "labels": [
-        "In Discussion",
+        "Text approved: new draft needed",
         "Text needed"
       ],
       "body": "",
       "createdAt": "2020-09-26T08:35:26Z",
-      "updatedAt": "2021-06-22T14:19:57Z",
+      "updatedAt": "2021-07-14T11:28:53Z",
       "closedAt": null,
       "comments": [
         {
@@ -724,13 +726,15 @@
       "state": "OPEN",
       "author": "elear",
       "authorAssociation": "COLLABORATOR",
-      "assignees": [],
+      "assignees": [
+        "stpeter"
+      ],
       "labels": [
-        "Candidate Text: Consensus call started"
+        "Text approved: new draft needed"
       ],
       "body": "IAB? RSEB? ISOC BOT? LLC?  ED? Other?",
       "createdAt": "2020-09-26T08:43:13Z",
-      "updatedAt": "2021-06-22T14:45:52Z",
+      "updatedAt": "2021-07-14T11:30:06Z",
       "closedAt": null,
       "comments": [
         {
