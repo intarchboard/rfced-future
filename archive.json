@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2021-07-15T00:13:13.890950+00:00",
+  "timestamp": "2021-07-22T00:13:22.884163+00:00",
   "repo": "intarchboard/program-rfced-future",
   "labels": [
     {
@@ -2200,6 +2200,59 @@
         }
       ],
       "reviews": []
+    },
+    {
+      "number": 75,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjkzMzczODI1",
+      "title": "Fix some language nits",
+      "url": "https://github.com/intarchboard/program-rfced-future/pull/75",
+      "state": "OPEN",
+      "author": "larseggert",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2021-07-20T11:07:44Z",
+      "updatedAt": "2021-07-20T11:37:52Z",
+      "baseRepository": "intarchboard/program-rfced-future",
+      "baseRefName": "master",
+      "baseRefOid": "f8718d664858c08e974ea759a88d2799b3aae028",
+      "headRepository": "larseggert/program-rfced-future",
+      "headRefName": "nits",
+      "headRefOid": "e14dffb7132f27000ee0f3e9c4ff9cce65d2adc6",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": [
+        {
+          "id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NzEwNDczODYw",
+          "commit": {
+            "abbreviatedOid": "e14dffb"
+          },
+          "author": "elear",
+          "authorAssociation": "COLLABORATOR",
+          "state": "CHANGES_REQUESTED",
+          "body": "",
+          "createdAt": "2021-07-20T11:35:30Z",
+          "updatedAt": "2021-07-20T11:37:52Z",
+          "comments": [
+            {
+              "originalPosition": 23,
+              "body": "I don't think this one's correct.",
+              "createdAt": "2021-07-20T11:35:30Z",
+              "updatedAt": "2021-07-20T11:37:52Z"
+            },
+            {
+              "originalPosition": 41,
+              "body": "Astonishingly, Lars' edit here is in accordance with Miriam Webster!!  Who knew??",
+              "createdAt": "2021-07-20T11:37:15Z",
+              "updatedAt": "2021-07-20T11:37:52Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
